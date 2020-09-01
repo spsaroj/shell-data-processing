@@ -45,7 +45,7 @@
 
   
 
--  **-c flag** : This flag is for counting. For example, ```tr ' ' '\12' < data.txt | sort | uniq - c``` will count all the repeated words that came from ```tr ' ' '\12' < returnedfile | sort | uniq```.
+-  **-c flag** : This flag is for counting. For example, ```tr ' ' '\12' < data.txt | sort | uniq - c``` will count all the repeated words that came from ```tr ' ' '\12' < data.txt | sort | uniq```.
 
   
 
